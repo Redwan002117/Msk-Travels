@@ -23,5 +23,5 @@ If you'd like to learn more about this website project or discuss how I can assi
 mail: redwanrashidrico@gmail.com
 
 <div id="header" align="center">
-  <img src="https://github.com/Redwan002117/Msk-Travels/blob/main/1730836093228.jpg" width="100"/>
+  <img src="https://github.com/Redwan002117/Msk-Travels/blob/main/1730836093228.jpg" width="100%"/>
 </div>
