@@ -1,4 +1,9 @@
-Developing a Travel Agency Website for MSK Travel
+#Developing a Travel Agency Website for MSK Travel
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://github.com/Redwan002117/Msk-Travels/blob/main/1730836093228.jpg" width="100%"/>
+</div>
 
 As a web developer, I'm excited to share the launch of a new website I recently completed for my client, MSK Travel - a Dubai-based travel agency. This project presented an interesting challenge, and I'm proud of the final result.
 
@@ -22,6 +27,4 @@ If you'd like to learn more about this website project or discuss how I can assi
 
 mail: redwanrashidrico@gmail.com
 
-<div id="header" align="center">
-  <img src="https://github.com/Redwan002117/Msk-Travels/blob/main/1730836093228.jpg" width="100%"/>
-</div>
+
